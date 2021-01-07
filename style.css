@@ -42,7 +42,7 @@ p{
 
    
 
-}
+
 .exp{
     height: 300px;
     padding-bottom: 150px;
@@ -97,6 +97,29 @@ p{
     font-weight: 200px;
     cursor: pointer;
     
+}
+
+.work{
+    background-image: url(images/as6.png);
+    margin: 100px;
+    padding: 100px;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+.work h2{
+    color: white;
+    margin-left: 7%;
+}
+.work .last2 a{
+    text-decoration: none;
+    padding: 5px 20px;
+    background-image:linear-gradient(salmon,tomato);
+    border-radius: 5px;
+    color: rgb(248, 240, 240);
+    float: left;
+    margin-left: 80%;
+    margin-bottom: 40%;
 }
 
  
