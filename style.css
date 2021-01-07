@@ -1,3 +1,107 @@
-p{
-    color: red;
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
 }
+.width-half{
+    width:40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+   
+
+}
+.width-half img{
+    width: 100%;
+    padding: 10px;
+    
+}
+
+
+h1{
+    font-size: 50px;
+}
+h4{
+    color: hsl(0, 2%, 33%);
+}
+h2{
+    color: hsl(236, 44%, 24%);
+    font-size: 40px;
+}
+p{
+    color: rgb(143, 131, 131);
+}
+
+.orange-color{
+    color: brown;
+}
+.green-color{
+    color: hsl(236, 44%, 24%);
+}
+
+
+   
+
+}
+.exp{
+    height: 300px;
+    padding-bottom: 150px;
+
+    
+}
+.exp2{
+    height: 300px;
+    padding-bottom: 150px;
+}
+.link-btn{
+    text-decoration: none;
+    padding: 5px 20px;
+    background-image:linear-gradient(salmon,tomato);
+    border-radius: 5px;
+    color: rgb(248, 240, 240);
+}
+.wrapper{
+    clear: both;
+    margin: 20px 40px;
+    color: rgb(192, 190, 184);
+    background: #E5E5E5;
+    
+
+}
+.wrapper h1{
+    color: hsl(236, 44%, 24%) ;
+    text-align: center;
+}
+
+.aphoto{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 80px;
+}
+.photo{
+    flex-basis: 260px;
+}
+.photo h3{
+    font-size: 18px;
+    text-align: justify;
+    color:#363958;
+}
+.photo p{
+    color: #6C6C6C;
+    font-size: 16px;
+    margin-top: 20px;
+    text-align: justify;
+}
+.aphoto .photo img{
+    height: 200px;
+    font-weight: 200px;
+    cursor: pointer;
+    
+}
+
+ 
+
+
+    
+
+
